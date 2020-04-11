@@ -1,6 +1,6 @@
 # Why did I fork this branch?
 
-The original gem is nto currently being actively maintained. There was a required fix needed to make the gem work when using named_groups on Rails 5+ and the original author created a fix but it was never merged. I have merged that branch and forked the repo so i can maintain it further if I run into future problems in Rails 6+.
+The original gem is not currently being actively maintained. There was a required fix needed to make the gem work when using named_groups on Rails 5+ and the original author created a fix but it was never merged. I have merged that branch and forked the repo so i can maintain it further if I run into future problems in Rails 6+.
 
 ---
 
