@@ -1,3 +1,9 @@
+# Why did I fork this branch?
+
+The original gem is nto currently being actively maintained. There was a required fix needed to make the gem work when using named_groups on Rails 5+ and the original author created a fix but it was never merged. I have merged that branch and forked the repo so i can maintain it further if I run into future problems in Rails 6+.
+
+---
+
 # Groupify
 [![Build Status](https://travis-ci.org/dwbutler/groupify.svg?branch=master)](https://travis-ci.org/dwbutler/groupify) [![Coverage Status](https://coveralls.io/repos/dwbutler/groupify/badge.svg?branch=master&service=github)](https://coveralls.io/github/dwbutler/groupify?branch=master) [![Code Climate](https://codeclimate.com/github/dwbutler/groupify/badges/gpa.svg)](https://codeclimate.com/github/dwbutler/groupify) [![Inline docs](http://inch-ci.org/github/dwbutler/groupify.svg?branch=master)](http://inch-ci.org/github/dwbutler/groupify)
 
